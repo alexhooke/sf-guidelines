@@ -44,3 +44,13 @@ alignment.
 ### 1.4. True / False / Null
 
 The Apex constants <code>true</code>, <code>false</code>, and <code>null</code> MUST be in lower case.
+
+## 2. Naming Conventions
+
+Naming conventions make the application easier to read and maintain.  The naming standards documented here cover customisation and configuration areas of Salesforce. 
+
+### 2.1. Custom Objects
+
+The object name MUST be singular. (e.g. Review vs. Reviews) 
+
+
